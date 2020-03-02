@@ -1,0 +1,13 @@
+/Users/sinanwang/Projects/IoT3D/IoT3D/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/sinanwang/Projects/IoT3D/IoT3D/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/sinanwang/Projects/IoT3D/IoT3D/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/sinanwang/Projects/IoT3D/IoT3D/bin/Debug/netcoreapp2.0/IoT3D.deps.json
+/Users/sinanwang/Projects/IoT3D/IoT3D/bin/Debug/netcoreapp2.0/IoT3D.runtimeconfig.json
+/Users/sinanwang/Projects/IoT3D/IoT3D/bin/Debug/netcoreapp2.0/IoT3D.runtimeconfig.dev.json
+/Users/sinanwang/Projects/IoT3D/IoT3D/bin/Debug/netcoreapp2.0/IoT3D.dll
+/Users/sinanwang/Projects/IoT3D/IoT3D/bin/Debug/netcoreapp2.0/IoT3D.pdb
+/Users/sinanwang/Projects/IoT3D/IoT3D/obj/Debug/netcoreapp2.0/IoT3D.csprojAssemblyReference.cache
+/Users/sinanwang/Projects/IoT3D/IoT3D/obj/Debug/netcoreapp2.0/IoT3D.AssemblyInfoInputs.cache
+/Users/sinanwang/Projects/IoT3D/IoT3D/obj/Debug/netcoreapp2.0/IoT3D.AssemblyInfo.cs
+/Users/sinanwang/Projects/IoT3D/IoT3D/obj/Debug/netcoreapp2.0/IoT3D.dll
+/Users/sinanwang/Projects/IoT3D/IoT3D/obj/Debug/netcoreapp2.0/IoT3D.pdb
