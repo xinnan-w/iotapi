@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'asg3diotapi'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_846f3df2da054c679d0045e43a4f8217 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e4ac72f66933470da4a8d52fee002d23 }}
         package: ${{env.DOTNET_ROOT}}/myapp 
